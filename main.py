@@ -33,8 +33,6 @@ def main():
     )
     parser.add_argument('link', help='link, bitlinks')
     args = parser.parse_args()
-    print(args.link)
-    print(type(args.link))
     try:
         total_clicks = count_clicks(token, args.link)
         print(total_clicks)
