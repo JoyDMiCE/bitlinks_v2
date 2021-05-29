@@ -1,29 +1,10 @@
-1. *_RUS_* Это программа делает битлинки, может посчитать клики по **_БИТЛИКАМ_**
+1. This program make bitlink, can count clicks of **_BITLINKS_**
 
-   *_ENG_* This program make bitlink, can count clicks of **_BITLINKS_**
+2. Environment requirements can be found in requirements.txt, if you can't find file *.env* - it's normal because he's hidden from you(there save a token for a program) *requests* - need to make a _bitlinks_
 
-2. *_RUS_* Требования к окружению можете посмотреть в requirements.txt
+3. To start a program you need to write `python main.py "link"` in console (terminal)
 
-   *_ENG_* Environment requirements can be found in requirements.txt
-
-3. *_RUS_* Что бы запустить программу надо написать в консоль (terminal) `python main.py "ссылка"`
-
-   *_ENG_* To start a program you need to write `python main.py "link"` in console (terminal)
-
-4. *_RUS_* Пример: `python main.py https://dvmn.org/modules` - будет выводить битлинк(сслыку можно поменять)
-
-   Получаем: `bit.ly/3bKvkyD
-   <class 'str'>`
-
-   (_Вы можете сами проверить работает-ли ссылка_)
-
-   2 Пример: `python main.py bit.ly/3bKvkyD` - посчитает сколько кликов было сделано по БИТЛИНКУ который вы сделали сверху
-
-   Получаем: `bit.ly/3bKvkyD
-   <class 'str'>
-   1`
-
-   *_ENG_* Example: `python main.py https://dvmn.org/modules` - This command will give a bitlink(in the command can ALL links)
+4. Example: `python main.py https://dvmn.org/modules` - This command will give a bitlink(in the command can ALL links)
    
    Taking: `bit.ly/3bKvkyD
    <class 'str'>`

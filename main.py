@@ -16,6 +16,7 @@ def shorten_link(token, link):
     response.raise_for_status()
     return response.json()["id"]
 
+
 def count_clicks(token, link):
     url = "https://api-ssl.bitly.com/v4/bitlinks/{}/clicks/summary".format(link)
     headers = {
@@ -39,6 +40,7 @@ def main():
     except requests.exceptions.HTTPError:
         bitlink = shorten_link(token, args.link)
         print(bitlink)
+
 
 if __name__ == "__main__":
     load_dotenv()
