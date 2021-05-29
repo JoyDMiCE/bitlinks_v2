@@ -10,13 +10,11 @@
 4. ###Examples.
    Example: `python main.py https://dvmn.org/modules` - This command will give a bitlink(in the command can ALL links)
    
-   Taking: `bit.ly/3bKvkyD
-   <class 'str'>`
+   Taking: `bit.ly/3bKvkyD`
    
    (_You can check this link_)
    
    Example 2: `python main.py bit.ly/3bKvkyD` - Count clicks of BITLINK, which you made upper
 
    Taking: `bit.ly/3bKvkyD
-   <class 'str'>
    1`
