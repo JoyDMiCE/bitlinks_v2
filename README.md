@@ -1,5 +1,5 @@
 # 1. What's the program?
-   ###This program make bitlink, can count clicks of **_BITLINKS_**
+   ### This program make bitlink, can count clicks of **_BITLINKS_**
 
 ## 2. Environment.
    Environment requirements can be found in requirements.txt, if you can't find file *.env* - it's normal because he's hidden from you(there save a token for a program) *requests* - need to make a _bitlinks_
