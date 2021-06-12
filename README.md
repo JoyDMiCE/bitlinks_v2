@@ -19,7 +19,7 @@
    Taking: `bit.ly/3bKvkyD
    1`.
    
-   ### 5 Bitly token.
+   ### 5. Bitly token.
 
    If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=oxXgIN4wvSA .
    
