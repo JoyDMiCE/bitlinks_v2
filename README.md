@@ -18,3 +18,34 @@
 
    Taking: `bit.ly/3bKvkyD
    1`
+   
+   ### 5 Bitly token.
+
+   If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=oxXgIN4wvSA
+   
+
+   To get a bitly token (which you need)
+   
+   go to the site https://bitly.com/
+
+   after which, register
+
+   find your icon (it is on the top right) and click on it
+   
+   | --- Profile Settings ----- GENERIC ACCESS TOKEN and enter your password there
+   
+   now press the orange button "GENERIC TOKEN"
+   
+   you were given a token that you copy and paste (example: sd7f87hhjd9ffj454jjef8884s3)
+   
+   go to the project folder (bitlinks_v2)
+
+   and create a .env file
+
+   go through it with any editor you are comfortable with
+
+   * AND WRITE EXACTLY AS WRITTEN HERE *
+   
+   BITLY_TOKEN = sd7f87hhjd9ffj454jjef8884s3 (the token you have)
+   
+   Congratulations, now everything is working for you.
