@@ -16,7 +16,7 @@ in console (terminal).
 ```
      python main.py https://dvmn.org/modules
 ```
-   - This command will give a bitlink(in the command can ALL links).
+   - This command will give a bitlink(the link can be changed).
    
    Taking: 
    `bit.ly/3bKvkyD`
@@ -42,27 +42,26 @@ python main.py bit.ly/3bKvkyD
    ### 5. Bitly token
 
    If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=oxXgIN4wvSA .
-   
 
-   To get a bitly token (which you need).
-   
-   go to the site https://bitly.com/ .
-
-   after which, register.
-
-   find your icon (it is on the top right) and click on it.
-   
-   | --- Profile Settings ----- GENERIC ACCESS TOKEN and enter your password there.
-   
-   now press the orange button "GENERIC TOKEN".
-   
-   you were given a token that you copy and paste (example: sd7f87hhjd9ffj454jjef8884s3).
-   
-   go to the project folder (bitlinks_v2).
-
-   and create a .env file.
-
-   go through it with any editor you are comfortable with.
+    To get a bitly token (which you need).
+  
+    Go to the site https://bitly.com/ .
+  
+    After which, register.
+  
+    Find your icon (it is on the top right) and click on it.
+  
+    | --- Profile Settings ----- GENERIC ACCESS TOKEN and enter your password there.
+  
+    Now press the orange button "GENERIC TOKEN".
+  
+    You were given a token that you copy and paste (example: sd7f87hhjd9ffj454jjef8884s3).
+  
+    Go to the project folder (bitlinks_v2).
+  
+    And create a .env file.
+  
+    Go through it with any editor you are comfortable with.
 
    *AND WRITE EXACTLY AS WRITTEN HERE*.
    
