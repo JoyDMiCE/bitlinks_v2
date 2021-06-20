@@ -1,17 +1,17 @@
-# 1. What's the program?
+# What's the program
    ### This program make bitlink, can count clicks of **_BITLINKS_**
 
-## 2. Environment
+## Environment
    Environment requirements can be found in requirements.txt, if you can't find file *.env* - it's normal because he's hidden from you(there save a token for a program) *requests* - need to make a _bitlinks_
 
-## 3. How to start? 
+## How to start?
    To start a program you need to write
    ```
    python main.py "link"
    ```
 in console (terminal).
 
-### 4. Examples
+### Examples
    Example: 
 ```
      python main.py https://dvmn.org/modules
@@ -39,7 +39,7 @@ python main.py bit.ly/3bKvkyD
    `
    .
    
-   ### 5. Bitly token
+   ### Bitly token
 
    If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=oxXgIN4wvSA .
 
