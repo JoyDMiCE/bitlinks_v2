@@ -32,7 +32,7 @@
    1`
 ### Bitly токен
 
-Если вы не любите читать то вот видеогайд - https://youtu.be/GuuppBrkrsc .
+Если вы не любите читать то вот видеогайд - https://www.youtube.com/watch?v=6fNButYLNyM
 
 Чтобы получить bitly токен(который вам понадобится).
 
