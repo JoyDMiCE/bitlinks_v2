@@ -42,8 +42,7 @@ python main.py bit.ly/3bKvkyD
 
 ### Bitly token
 
-   If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=oxXgIN4wvSA .
-
+   If you don't like reading, here's a video guide - https://www.youtube.com/watch?v=80MfFp6ImB4&t=101s
 To get a bitly token (which you need).
   
 Go to the site https://bitly.com/ .
