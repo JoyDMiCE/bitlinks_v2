@@ -67,7 +67,7 @@ Go through it with any editor you are comfortable with.
    *AND WRITE EXACTLY AS WRITTEN HERE*.
    
    ```
-   BITLY_TOKEN = sd7f87hhjd9ffj454jjef8884s3
+   BITLY_TOKEN=sd7f87hhjd9ffj454jjef8884s3
    ``` 
    (the token you have).
    
